@@ -1,0 +1,6 @@
+装包  Windows+r cmd pip install 库名字
+把write_excel.py 最后的run后改为 数据类型  spiderName里面的发布网站
+ctrl+shift+F10 得到一个office 先锁定头行（用冻结窗口选项冻结首行）
+再逐行选择性粘贴（转置）
+URL和查询入口打开网页，其他内容一一对应 
+另外要求总数之间相差较小
